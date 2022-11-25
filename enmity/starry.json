@@ -151,7 +151,7 @@
   },
   "background": {
     "blur": 0.1,
-    "url": "https://raw.githubusercontent.com/Lrdsnow/ios-repo/main/enmity/starry-wallpaper.jpg",
+    "url": "https://github.com/Lrdsnow/ios-repo/blob/main/enmity/starry-wallpaper.jpg?raw=true",
     "alpha": 1.0
   }
 }
