@@ -1,0 +1,46 @@
+{
+    "name": "A Deep Commitment to Blurple",
+    "description": "A darker theme with blurple hues.",
+    "authors": [
+        {
+            "name": "Beef",
+            "id": "257109471589957632"
+        }
+    ],
+    "semanticColors": {
+        "BACKGROUND_PRIMARY": ["#000000"],
+        "BACKGROUND_SECONDARY": ["#16141c"],
+        "BACKGROUND_SECONDARY_ALT": ["#211e29"],
+        "BACKGROUND_TERTIARY": ["#0e0d14"],
+        "BACKGROUND_ACCENT": ["#6600ff"],
+        "BACKGROUND_MOBILE_PRIMARY": ["#000000"],
+        "BACKGROUND_MOBILE_SECONDARY": ["#16141c"],
+        "BACKGROUND_MOBILE_TERTIARY": ["#0e0d14"],
+        "BACKGROUND_NESTED_FLOATING": ["#1b1921"],
+        "BACKGROUND_MODIFIER_ACTIVE": ["#8b58f255"],
+        "BACKGROUND_MODIFIER_SELECTED": ["#8a72da55"],
+        "BACKGROUND_MENTIONED": ["#8b58f222"],
+        "CHAT_INPUT_CONTAINER_BACKGROUND": ["#000000"],
+        "CHAT_BACKGROUND": ["#000000"],
+        "INTERACTIVE_ACTIVE": ["#dccdf7"],
+        "INTERACTIVE_NORMAL": ["#9872da"],
+        "INTERACTIVE_MUTED": ["#694e94"],
+        "CHANNEL_ICON": ["#9672da"],
+        "CHANNELS_DEFAULT": ["#bc9ed9"],
+        "HEADER_PRIMARY": ["#e9daf7"],
+        "HEADER_SECONDARY": ["#d6c9f0"],
+        "TEXT_NORMAL": ["#dfcdf7"],
+        "TEXT_MUTED": ["#bc9ed9"],
+        "TEXT_LINK": ["#af58f2"],
+        "SPOILER_HIDDEN_BACKGROUND": ["#281f2e"],
+        "SPOILER_REVEALED_BACKGROUND": ["#18131c"]
+    },
+    "rawColors": {
+        "PRIMARY_600": "#292330",
+        "PRIMARY_630": "#000000",
+        "PRIMARY_700": "#000000",
+        "PRIMARY_800": "#000000",
+        "YELLOW_300": "#8b58f2"
+    },
+    "spec": 2
+}
