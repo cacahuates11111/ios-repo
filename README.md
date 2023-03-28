@@ -1,5 +1,7 @@
 # ios-repo
 Ios Stuff
 
-### Install palera1n loader:
-<itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/Lrdsnow/ios-repo/main/jailbreak/palera1n.plist>
+### Install Apps:
+Unsigned - Palera1n Loader: <itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/Lrdsnow/ios-repo/main/jailbreak/palera1n.plist>
+
+Signed - Webex: <itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/Lrdsnow/ios-repo/main/hacked_apps/webex.plist>
