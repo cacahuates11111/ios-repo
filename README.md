@@ -6,4 +6,4 @@ Unsigned - Palera1n Loader: <itms-services://?action=download-manifest&url=https
 
 Signed - Webex: <itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/Lrdsnow/ios-repo/main/hacked_apps/webex.plist>
 
-<https://www.installonair.com/storage/ipaz/Bpx6T6/Bpx6T6.plist>
+<itms-services://?action=download-manifest&url=https://www.installonair.com/storage/ipaz/Bpx6T6/Bpx6T6.plist>
