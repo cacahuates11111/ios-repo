@@ -1,0 +1,35 @@
+{
+  "name": "PureKFD Repo",
+  "identifier": "uwu.lrdsnow.purekfdrepo",
+  "apps": [
+    {
+      "name": "PureKFD",
+      "bundleIdentifier": "uwu.lrdsnow.purekfd",
+      "developerName": "Lrdsnow",
+      "subtitle": "PureKFD",
+      "localizedDescription": "PureKFD",
+      "iconURL": "https://raw.githubusercontent.com/Lrdsnow/PureKFD/4.0/PureKFD/Assets.xcassets/AppIcons/AppIcon.appiconset/App%20Store.png",
+      "tintColor": "cb42f5",
+      "screenshotURLs": [],
+      "beta": false,
+      "versions": [
+        {
+          "version": "4.0",
+          "date": "10/06/23",
+          "localizedDescription": "PureKFD",
+          "downloadURL": "https://github.com/Lrdsnow/PureKFD/releases/download/4.0/PureKFD.ipa",
+          "size": 27842739,
+          "minOSVersion": "15.0",
+          "maxOSVersion": "16.7"
+        }
+      ],
+      "version": "4.0",
+      "versionDate": "10/06/23",
+      "versionDescription": "PureKFD",
+      "downloadURL": "https://github.com/Lrdsnow/PureKFD/releases/download/4.0/PureKFD.ipa",
+      "size": 27842739
+    }
+  ],
+  "news": []
+}
+
